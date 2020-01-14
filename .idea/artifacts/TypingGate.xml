@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TypingGate">
+    <output-path>$PROJECT_DIR$/classes/artifacts/TypingGate</output-path>
+    <root id="archive" name="TypingGate.war" />
+  </artifact>
+</component>
